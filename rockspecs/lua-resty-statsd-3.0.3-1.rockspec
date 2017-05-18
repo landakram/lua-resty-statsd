@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "lua-resty-statsd"
-version = "3.0.2-1"
--- LuaDist source
+version = "3.0.3-1"
 source = {
-  tag = "3.0.2-1",
-  url = "git://github.com/LuaDist2/lua-resty-statsd.git"
+  url = "git://github.com/mediba-system/lua-resty-statsd.git",
+  tag = "v3.0.3-resty"
 }
--- Original source
--- source = {
---   url = "git://github.com/mediba-system/lua-resty-statsd.git",
---   tag = "v3.0.2-resty"
--- }
 description = {
   summary = "Statsd client for OpenResty/ngx_lua",
   detailed = "Statsd client for Lua 5.1+.",
